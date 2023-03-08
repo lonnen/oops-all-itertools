@@ -39,5 +39,5 @@ Usage
     [0, 1, 2, 3, 4, 5]
 
 
-For the full list of functions, see the `itertools API documentation <https://docs.python.org/3/library/itertools.html>_`
+For the full list of functions, see the `itertools API documentation <https://docs.python.org/3/library/itertools.html>`_
 and the `more-itertools API documentation <https://more-itertools.readthedocs.io/en/stable/api.html>`_.
