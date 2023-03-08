@@ -3,7 +3,7 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "oops_all_itertools"
+name = "oops-all-itertools"
 authors = [{name = "Lonnen"}]
 readme = "README.rst"
 license = {file = "LICENSE"}
