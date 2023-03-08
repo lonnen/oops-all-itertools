@@ -2,6 +2,6 @@
 
 from itertools import *  # noqa
 
-from more_itertools import * #noqa
+from more_itertools import *  # noqa
 
-__version__ = '0.1.0'
+__version__ = "0.1.0"
