@@ -2,7 +2,7 @@ import os
 import sys
 
 # add one directory up to the path so we can get the library itself
-sys.path.insert(0, os.path.abspath('..'))
+sys.path.insert(0, os.path.abspath(".."))
 
 import oops_all_itertools  # noqa: E402
 
@@ -14,23 +14,23 @@ import oops_all_itertools  # noqa: E402
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Oops All Itertools'
-copyright = '2023, Lonnen'
-author = 'Lonnen'
+project = "Oops All Itertools"
+copyright = "2023, Lonnen"
+author = "Lonnen"
 version = oops_all_itertools.__version__
 release = version
-exclude_patterns = ['_build']
+exclude_patterns = ["_build"]
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.viewcode']
+extensions = ["sphinx.ext.autodoc", "sphinx.ext.viewcode"]
 
-templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+templates_path = ["_templates"]
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
-html_static_path = ['_static']
+html_theme = "alabaster"
+html_static_path = ["_static"]
