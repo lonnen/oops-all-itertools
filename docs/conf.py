@@ -1,4 +1,5 @@
-import sys, os
+import os
+import sys
 
 # add one directory up to the path so we can get the library itself
 sys.path.insert(0, os.path.abspath('..'))
