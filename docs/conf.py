@@ -4,8 +4,7 @@ import sys
 # add one directory up to the path so we can get the library itself
 sys.path.insert(0, os.path.abspath('..'))
 
-# noqa: E402
-import oops_all_itertools
+import oops_all_itertools  # noqa: E402
 
 # Configuration file for the Sphinx documentation builder.
 #
