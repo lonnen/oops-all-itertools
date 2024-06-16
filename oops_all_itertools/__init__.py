@@ -4,4 +4,4 @@ from itertools import *  # noqa
 
 from more_itertools import *  # noqa
 
-__version__ = "3.3.0"
+__version__ = "3.3.1"
