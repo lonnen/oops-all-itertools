@@ -35,7 +35,7 @@ classifiers = [
 ]
 dynamic = ["version", "description"]
 dependencies = [
-    "more-itertools == 10.1.0",
+    "more-itertools == 10.3.0",
 ]
 
 [project.urls]
