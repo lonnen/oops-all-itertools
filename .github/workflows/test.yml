@@ -24,4 +24,4 @@ jobs:
         pip install '.[test]'
     - name: Run tests
       run: |
-        pytest
+        coverage run --include="oops_all_itertools/*.py" -m unittest
