@@ -10,8 +10,8 @@ Inspired by `more-itertools issue 681 <https://github.com/more-itertools/more-it
 
 |Build Status|
 
-.. |Build Status| image:: https://github.com/lonnen/oops-all-itertools/actions/workflows/python-app.yml/badge.svg?branch=main
-   :target: https://github.com/lonnen/oops-all-itertools/actions/workflows/python-app.yml
+.. |Build Status| image:: https://github.com/lonnen/oops-all-itertools/actions/workflows/test.yml/badge.svg?branch=main
+   :target: https://github.com/lonnen/oops-all-itertools/actions/workflows/test.yml
 
 :Code:          https://github.com/lonnen/oops-all-itertools
 :Issues:        https://github.com/lonnen/oops-all-itertools/issues
